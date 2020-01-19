@@ -1,0 +1,122 @@
+body
+{
+	background-color: #336699;
+	font-family: Verdana;
+	font-size: 18px;
+	color: white;
+}
+
+#cale
+	{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	#logo
+	{
+	background-color: #333333;	
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-weight: 900;
+	letter-spacing: 2px;
+	}
+	#menu
+	{
+	float: left;
+	background-color: lightblue;
+	width: 160px;
+	min-height: 620px;
+	padding: 10px;
+	}
+	#zawartosc
+	{
+	float: left;
+	width: 800px;
+	padding: 10px;
+	text-align: justify;
+	text-indent: 30px;
+	}
+	#stopka
+	{
+	clear: both;	
+	color: white;
+	text-align: center;
+	padding: 30px;
+	font-size: 12px;
+	}
+	.opcja
+	{
+	font-size: 15px;
+	height: 18px;
+	text-align: center;
+	}
+	.opcja:hover
+	{
+	background-color: darkgray;
+	cursor: pointer;
+	}
+	a.o
+	{
+	color: black;
+	text-decoration: none;
+	}
+	.opcja1
+	{
+	color: black;
+	font-size: 20px;
+	height: 22px;
+	text-align: center;
+	}
+	.opcja1:hover
+	{
+	background-color: darkgray;
+	cursor: pointer;
+	}
+	.opcja2
+	{
+	color: black;
+	font-size: 20px;
+	height: 22px;
+	text-align: center;
+	}
+	a.o1
+	{
+	color: black;
+	text-decoration: none;
+	}
+	#glowna
+	{
+	font-size: 24px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-weight: bold;
+	}
+	.podtytul
+	{
+	font-size: 22px;
+	font-style: italic;
+	}
+	.ja
+	{
+	height: 240px; 
+	border-top: 3px dotted black;
+	}
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	

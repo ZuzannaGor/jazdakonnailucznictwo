@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ 	<meta charset="utf-8" />
+	<title>Jazda konna i łucznictwo</title>
+	<meta name="description" content="Na tej stronie dowiesz się co nieco na temat łucznictwa i jazdy konnej." />
+	<meta name="keywords" content="konie, jazda konna, koń, łuk, łucznictwo" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+
+<body>
+	<div id="cale">
+		<div id="logo">
+			Jazda konna i łucznictwo
+		</div>
+		<div id="menu"> 
+			<div class="opcja1"><a href="index.html" class="o1">Strona główna</a></div><br/>
+		   <div class="opcja2">Jazda konna</div>
+			<div class="opcja"><a href="jazdahistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="jazdadyscypliny.html" class="o">Dyscypliny</a></div><br/>
+			<div class="opcja2">Łucznictwo</div>
+			<div class="opcja"><a href="lukhistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="lukzasady.html" class="o">W praktyce</a></div><br/>
+			<div class="opcja1"><a href="cojelaczy.html" class="o1">Co je łączy?</a></div>
+			
+		</div>
+		<div id="zawartosc">
+			<header id="glowna">Krótka historia łucznictwa</header>
+			<br/>
+			<p>Początki łuku sięgają bardzo odległych dziejów. 
+			Prawdopodobnie wynaleziono go na kontynencie 
+			<img src="malluk.jpg" style="float: right; height: 200px; width: 250px; padding: 10px;">
+			afrykańskim, dopiero później dotarł do Europy.
+			Broń ta była obecna już w czasach paleolitycznych 
+			(starsza epoka kamienia), a świadectwem tego są licznie 
+			znajdowane groty strzał, których wytworzenie wymagało 
+			długotrwałej obróbki twardego kamienia. Początkowo 
+			owe groty posiadały jednorodny kształt. Wynikało to 
+			z braku doświadczenia i odpowiednich narzędzi do ich 
+			formowania. W epoce neolitu nadawano im różnorodne 
+			profile, które były uzależnione od przeznaczenia. </p>
+			
+			<p>Pierwotne łuki prezentowały 
+			<img src="strzala.jpg" style="float: left; height: 150px; width: 250px; padding: 10px;">
+			typ ręcznej miotającej 
+			broni bojowej i myśliwskiej (dzisiaj nazywany łukiem 
+			prostym lub równikowym-od rejonu występowania). 
+			Wykonywane były z jednego kawałka drewna sprężystego 
+			(cis, jesion, klon, wiąz). Były niemal proste lub 
+			delikatnie zakrzywione. Cięciwa nakładano luźno lub 
+			z nieznacznym naprężeniem. Sposób działania opierał 
+			się na zasadzie wyzwalania energii odkształcenia 
+			sprężystego. Prymitywne cięciwy wykonanywano w formie plecionki 
+			z włókien roślinnych, które nie ulegały rozciąganiu. Poźniej
+			robione były z nici konopnych, lnianych lub jedwabnych. 
+		   Strzała, zwykle jodłowa lub jesionowa, na jednym końcu
+			miała umieszczony grot, a na drugim mocowano nasadę.
+			Powyżej nasady znajdowało się pierzysko (lotki z ptasich piór).</p>
+			
+			<p>Na postęp uzbrojeniowy miał wpływ rozwój cywilizacji, powstawanie
+			państw oraz imperiów z ogromnymi armiami, wprowadzenie nowych technologii, 
+			a także wymiana kulturowa. Łuk także ulegał modyfikacjom. Zyskiwał 
+			<img src="mit.jpg" style="float: right; height: 200px; width: 300px; padding: 10px;">
+			również coraz większe znaczenie symboliczne-był oznaką potęgi oraz prężności
+			sił żywotnych. Był uznawany za królewską broń, godną wielkich przywódców.
+			W mitologiach pojawiali się bogowie władający tą bronią, a więc uznawano
+			łuk jako boski oręż. 
+			Sama strzała była symbolem nagłego zjawiska, błyskawicy, 
+			boskiego wyroku, katastrofy, wiatru, ale także polowania, 
+			promieni słonecznych lub księżycowych.</p>
+			
+			<p>Od początku istnienia tej broni dokonywano różnych ulepszeń. 
+			Nie były one tożsame w każdym zakątku świata. Najczęściej 
+			różnorodność była spowodowana kulturą lub dostępem do materiałów.</p>
+			
+		<div id="stopka">
+			Jazda konna i łucznictwo  &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+	</div>
+
+
+</body>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ 	<meta charset="utf-8" />
+	<title>Jazda konna i łucznictwo</title>
+	<meta name="description" content="Na tej stronie dowiesz się co nieco na temat łucznictwa i jazdy konnej." />
+	<meta name="keywords" content="konie, jazda konna, koń, łuk, łucznictwo" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+
+<body>
+	<div id="cale">
+		<div id="logo">
+			Jazda konna i łucznictwo
+		</div>
+		<div id="menu"> 
+			<div class="opcja1"><a href="index.html" class="o1">Strona główna</a></div><br/>
+		   <div class="opcja2">Jazda konna</div>
+			<div class="opcja"><a href="jazdahistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="jazdadyscypliny.html" class="o">Dyscypliny</a></div><br/>
+			<div class="opcja2">Łucznictwo</div>
+			<div class="opcja"><a href="lukhistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="lukzasady.html" class="o">W praktyce</a></div><br/>
+			<div class="opcja1"><a href="cojelaczy.html" class="o1">Co je łączy?</a></div>
+			
+		</div>
+		<div id="zawartosc">
+			<header id="glowna">Co łączy te dwa sporty?</header>
+			<p>W historii było mnóstwo przykładów łucznictwa konnego. 
+			Wiele armii miało w swoich szeregach konne oddziały, 
+			w których główną bronią był łuk. Dzisiaj nie ma oddziałów, ale jest 
+			sport nazywany łucznictwem konnym.</p>
+			<img src="lukon.jpg" style="height: 250px; width: 400px; padding-left: 190px;">
+			<p>Łucznictwo konne to, jak 
+			sama nazwa wskazuje, strzelanie z grzbietu konia. 
+			Można powiedzieć, że jest to sport podwójnie trudnym. 
+			Jednoczesne utrzymanie się na koniu w pędzie i celne 
+			strzelanie do celu wymaga nielada umiejętności.
+			Jednak, żeby zacząć trenować ten sport, na starcie 
+			nie trzeba być mistrzem w każdej dziedzinie 
+			(wystarczą podstawowe umiejętności i wiedza).
+			</p>
+			<p>Zawody łucznictwa konnego wyglądają niezwykle widowiskowo.
+			W większości przypadków jeźdźcy są ubrani w tradycyjne stroje-jest to ukłon w stronę tradycji oraz historii tego pięknego sportu.</p>
+			
+	
+		
+		</div>
+		<div id="stopka">
+			Jazda konna i łucznictwo  &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+
+
+</body>
+</html>

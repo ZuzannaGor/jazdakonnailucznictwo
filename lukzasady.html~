@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ 	<meta charset="utf-8" />
+	<title>Jazda konna i łucznictwo</title>
+	<meta name="description" content="Na tej stronie dowiesz się co nieco na temat łucznictwa i jazdy konnej." />
+	<meta name="keywords" content="konie, jazda konna, koń, łuk, łucznictwo" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+
+<body>
+	<div id="cale">
+		<div id="logo">
+			Jazda konna i łucznictwo
+		</div>
+		<div id="menu"> 
+			<div class="opcja1"><a href="index.html" class="o1">Strona główna</a></div><br/>
+		   <div class="opcja2">Jazda konna</div>
+			<div class="opcja"><a href="jazdahistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="jazdadyscypliny.html" class="o">Dyscypliny</a></div><br/>
+			<div class="opcja2">Łucznictwo</div>
+			<div class="opcja"><a href="lukhistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="lukzasady.html" class="o">W praktyce</a></div><br/>
+			<div class="opcja1"><a href="cojelaczy.html" class="o1">Co je łączy?</a></div>
+			
+		</div>
+		<div id="zawartosc">
+			<header id="glowna">Łucznictwo w praktyce</header>
+			<p>Każdy łucznik powinien wiedzieć, że poprawny i celny strzał
+			może zostać oddany dzięki odpowiedniej postawie. Nauka tego 
+			elementu jest niezwykle istotna. </p>
+			<br/><p><b>Przepis na prawidłową postawę</b></p>
+			1. Stajemy bokiem do celu, tak aby stopy były na jednej linii z celem.<br/>
+			2. Prostujemy naszą sylwetkę.<br/>
+			3. Unosimy rękę trzymającą łuk nad linię strzału.<br/>
+			4. Stajemy w rozkroku nie większym niż szerokość bioder.<br/>
+			5. Prostujemy i blokujemy łokieć i staw barkowy ręki, która trzyma łuk.<br/>
+		   <br/>
+		   <img src="postawa.jpg" style="height: 200px; width: 340px; padding-left: 220px;">
+		   <p><b>Jak prawidłowo napiąć łuk</b></p>
+		   1. Chwytamy cięciwę palcami (tak, żeby znalazła się na pierwszym zgięciu palców).<br/>
+		   2. Pozostałą część palców oraz dłoni pozostawiamy wyprostowaną.<br/>
+		   3. Należy pamiętać, aby nie ściskać palcami nasadki.<br/>
+		   4. Dłoń powinna lekko trzymać łuk.<br/>
+		   5. Naciągamy cięciwę do momentu, gdy oprze się ona o brodę.<br/>
+			<br/>
+			<img src="tarcza.jpg" style="height: 200px; width: 340px; padding-left: 220px;">
+			<br/>
+			<p><b>Unikaj błedów, czyli jak dobrze strzelać z łuku</b></p>		  
+			<u>Prawidłowe ułożenie palców:</u> cięciwa powinna znajdować 
+			się na załamaniu między paliczkami. Palec wskazujący nad 
+			strzałą, a serdeczny i środkowy pod strzałą.<br/>
+			<u>Właściwe naciąganie cięciwy:</u> nie można łapać 
+			strzały palcami. Naciągaj cięciwę za pomocą mięśni 
+			pleców (a nie ramion). Ramię powinno znajdować się 
+			w tej samej linii co strzała. Następnie należy ciągnąć
+			cięciwę do momentu, gdy palcem wskazującym dotkniemy 
+			brody, a cięciwa dotknie ust i nosa.<br/>
+			<u>Wpatrzenie się w środek tarczy:</u> strzałą namierzamy 
+			cel. Początkowo może wydawać się trudne, ale z czasem nabieramy wprawy.
+		</div>
+		<div id="stopka">
+			Jazda konna i łucznictwo  &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+
+
+</body>
+</html>

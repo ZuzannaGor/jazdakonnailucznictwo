@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ 	<meta charset="utf-8" />
+	<title>Jazda konna i łucznictwo</title>
+	<meta name="description" content="Na tej stronie dowiesz się co nieco na temat łucznictwa i jazdy konnej." />
+	<meta name="keywords" content="konie, jazda konna, koń, łuk, łucznictwo" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+
+<body>
+	<div id="cale">
+		<div id="logo">
+			Jazda konna i łucznictwo
+		</div>
+		<div id="menu"> 
+			<div class="opcja1"><a href="index.html" class="o1">Strona główna</a></div><br/>
+		   <div class="opcja2">Jazda konna</div>
+			<div class="opcja"><a href="jazdahistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="jazdadyscypliny.html" class="o">Dyscypliny</a></div><br/>
+			<div class="opcja2">Łucznictwo</div>
+			<div class="opcja"><a href="lukhistoria.html" class="o">Historia</a></div>
+			<div class="opcja"><a href="lukzasady.html" class="o">W praktyce</a></div><br/>
+			<div class="opcja1"><a href="cojelaczy.html" class="o1">Co je łączy?</a></div>
+			
+		</div>
+		<div id="zawartosc">
+			<header id="glowna">Dyscypliny związane z końmi</header>
+			<br/><br/>
+			<div class="ja" style="border-top: 3px solid black;">
+			<br/><header class="podtytul">Jeździectwo angielskie (klasyczne)</header>
+			<p>Jest to styl jazdy wykorzystywany na całym świecie. 
+			W tym stylu ważny jest dosiad jeźdźca, który za jego 
+			pomocą jest w stanie zatrzymać lub przyspieszyć konia.</p>
+			<br/><p>Dzielimy je na 3 pośrednie dyscypliny:</p></div>
+			<div class="ja">
+			<p><b>Ujeżdżanie, dresaż</b>-jeździec i koń 
+			<img src="ujezdzanie.jpg" style="float: left; width: 280px; height: 180px;padding: 10px;"> 
+			wykonują serię ruców, figur. 
+			Pomaga to wyćwiczyć u konia posłuszeństwo, płynność wykonywania 
+			komend oraz chęć współpracy z jeźdzcem.</p></div>
+			<div class="ja">
+			<p><b>Skoki przez przeszkody</b>-koń i jeździec 
+			<img src="skoki.jpg" style="float: right; width: 280px; height: 180px; padding: 10px;">
+			pokonują przeszkody na torze z jak najmniejszą ilością błędów. 
+			Celem tego jest sprawdzenie umiejętności, dokładności 
+			i wytrenowania konia skaczącego pod jeźdźcem.</p>
+			</div>
+			<div class="ja" style="border-bottom: 3px solid black">
+			<p><b>Wszechstronny konkurs konia 	<img src="wkkw.jpg" style="float: left; width: 280px; height: 180px; padding: 10px;">wierzchowego</b>-najpełniejsze 
+			sprawdzenie konia i jeźdźca (wymaga to dużego 
+			doświadczenia). Zawody składają się z trzech prób: 
+			ujeżdżania, terenowej i skoków przez przeszkody.
+			</p>
+			</div>
+			<div style="border-bottom: 3px solid black; height: 240px;">
+			<br/><img src="wes.jpg" style="float: right; width: 240px; height: 180px; padding: 10px;"><header class="podtytul">Western riding</header>
+			<p>Styl ten powstał w Ameryce, podczas pracy
+			na farmach oraz ranczach. Konie, które są wykorzystywane w stylu western 
+			są małe, wytrzymałe i mają zwartą budowę ciała. 
+			Jeździec ubrany jest w charakterystyczny strój: 
+			tradycyjny kapelusz, dżiny i koszula.</p>
+			</div>
+			
+			</div>
+ 			
+			
+			
+			
+			
+			
+			
+			
+	
+		<div id="stopka">
+			Jazda konna i łucznictwo  &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+
+
+</body>
+</html>
